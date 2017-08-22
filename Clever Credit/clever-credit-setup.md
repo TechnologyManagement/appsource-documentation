@@ -2,6 +2,7 @@
 The setup page is accessed through the "Setup & Extensions" menu. Two new "Assisted Setup" records are added to the system by the Clever Credit app.
 - Setup Clever Credit
 - Setup a new credit controller
+
 ## Setup Clever Credit
 This page steps you through the setup of the Clever Credit app. Default data will have been created when the app was installed, but this page will help you alter it as necessary.
 
