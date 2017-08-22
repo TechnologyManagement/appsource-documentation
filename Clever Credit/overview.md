@@ -17,5 +17,5 @@ are displayed in a new list for your authorised credit controllers to review and
 release.
 
 # Contents
-- [Clever Credit](.\clever-credit.md)
-- [Setup](.\clever-credit-setup.md)
+- [Clever Credit](.\clever-credit)
+- [Setup](.\clever-credit-setup)

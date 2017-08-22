@@ -1,5 +1,5 @@
 # Clever Credit Page
-This page provides an overview of your customers, how much money they owe you and how old the debt is. A column will be shown for each of the ageing bands that has been defined on the [Clever Credit Setup](.\clever-credit-setup.md) page. By default these are:
+This page provides an overview of your customers, how much money they owe you and how old the debt is. A column will be shown for each of the ageing bands that has been defined on the [Clever Credit Setup](.\clever-credit-setup) page. By default these are:
 - Not Due
 - 30 Days
 - 60 Days
